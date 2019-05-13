@@ -21,3 +21,10 @@ body {
 	background: rgb(0,0,0);
 	transform: scale(1.1);
 }
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	color: white;
+	font-family: 'Calibri', sans-serif;
+}
